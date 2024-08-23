@@ -6,7 +6,7 @@ namespace w123
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("333388");
+            Console.WriteLine("jyamamama");
         }
     }
 }
